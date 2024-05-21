@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class IndexController {
     @RequestMapping("/info")
     public String info(){
-        System.out.println("奥利给");
         return "/calmlog-index";
     }
 }
