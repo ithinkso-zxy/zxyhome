@@ -4,11 +4,100 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f88767c-36e0-4411-852a-92d063d84ad0" name="Changes" comment="20240521" />
+    <list default="true" id="0f88767c-36e0-4411-852a-92d063d84ad0" name="Changes" comment="20240521-01">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zxy/AppRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/calmlog-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/calmlog-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/calmlog-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/css/cl-css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/highlight/highlight.pack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/highlight/styles/railscasts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/img/default-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/img/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/img/portrait.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/temporary-img/artical-img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/temporary-img/artical-img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/temporary-img/code.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/temporary-img/list-image1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/temporary-img/list-image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/temporary-img/list-image3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/temporary-img/list-right.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/temporary-img/recommended-left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/temporary-img/recommended-right.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/htmls/temporary-img/recommended.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/_layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/_leftbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/artlist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/css/cl-css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/highlight/highlight.pack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/highlight/styles/railscasts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/img/code.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/img/default-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/img/list-right.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/img/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/img/portrait.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/setting.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/jpress-template/calmlog/template.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/screenshots/details.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/screenshots/details.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/screenshots/index.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/screenshots/index.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/screenshots/phone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/screenshots/phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zxyhome/screenshots/wechat.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zxy/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zxy/controller/IndexController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,20 +117,52 @@
   <component name="ProjectId" id="2glbCtSVTYbbCkN4J3NSuobdg6M" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/projects/zxyhome",
+    "last_opened_file_path": "E:/projects/zxyhome/src/main/resources",
     "settings.editor.selected.configurable": "MavenSettings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\projects\zxyhome\src\main\resources" />
+      <recent name="E:\projects\zxyhome\src\main\resources\static\img" />
+      <recent name="E:\projects\zxyhome\src\main\resources\templates\calmlog" />
+      <recent name="E:\projects\zxyhome\src\main\resources\templates\jpress-template" />
+      <recent name="E:\projects\zxyhome\src\main\resources\templates\calmlog\jpress-template" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AppRun" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="zxyhome" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zxy.AppRun" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AppRun" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,7 +173,7 @@
       <updated>1716274990534</updated>
       <workItem from="1716274993023" duration="592000" />
       <workItem from="1716275613848" duration="672000" />
-      <workItem from="1716276299112" duration="1923000" />
+      <workItem from="1716276299112" duration="6092000" />
     </task>
     <task id="LOCAL-00001" summary="20240521">
       <created>1716277532819</created>
@@ -68,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1716278061719</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="20240521-01">
+      <created>1716278303757</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716278303757</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +215,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20240521" />
-    <option name="LAST_COMMIT_MESSAGE" value="20240521" />
+    <MESSAGE value="20240521-01" />
+    <option name="LAST_COMMIT_MESSAGE" value="20240521-01" />
   </component>
 </project>
